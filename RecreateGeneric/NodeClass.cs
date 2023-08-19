@@ -22,7 +22,7 @@ namespace RecreateGeneric
 
 
         //Constructor
-        public NodeClass (T data) 
+        public NodeClass(T data)
         {
             this.Data = data; // this.Data = data as a parameter
         }
